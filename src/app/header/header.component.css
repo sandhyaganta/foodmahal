@@ -1,0 +1,30 @@
+.r1{
+    background-color: brown;
+    
+}
+.b2{
+    color: white;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.as{
+    background-color: brown;
+}
+.r2{
+    background-color: white;
+}
+.b1{
+    color: black;
+}
+.bi{
+    color: white;
+}
+
+
+
+.ff{
+    height: 75px;
+    width: 85px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: white;
+}
