@@ -1,3 +1,22 @@
 .i1{
     height: 450px;
 }
+.sb1{
+    position: absolute;
+    top: 90%;
+    left: 10%;
+    background-color: rgb(243, 227, 8);
+}
+#si1{
+    position: absolute;
+    top: 90%;
+    left: 30%;
+    padding: 10px 20px;
+
+}
+.l1{
+    position: absolute;
+    top: 90%;
+    left: 75%;
+    color: white;
+}
